@@ -11,3 +11,8 @@ For the radiative equilibrium surface (spin-up), the meridional temperature prof
 To reach a stable equilibrium surface, an iteration of 50 years with a timestep of one day has been made.
 
 We used two different temperature-dependent albedo schemes. These two simple schemes are the so called ice and snow-ice albedo. Both schemes include the positive feedback of the growth of ice in the model
+
+
+References: 
+Budyko, M.I. (1969). \textit{The effect of solar radiation on the climate of the earth}. Tellus, 21: 611-619
+Sellers, W. (1969).  \textit{A climate model based on the energy balance of the earth-atmosphere system}. J. Applied, Metereology, 8: 392-400
