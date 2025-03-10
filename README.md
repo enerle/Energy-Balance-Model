@@ -14,5 +14,5 @@ We used two different temperature-dependent albedo schemes. These two simple sch
 
 
 References: 
-Budyko, M.I. (1969). \textit{The effect of solar radiation on the climate of the earth}. Tellus, 21: 611-619
-Sellers, W. (1969).  \textit{A climate model based on the energy balance of the earth-atmosphere system}. J. Applied, Metereology, 8: 392-400
+Budyko, M.I. (1969). The effect of solar radiation on the climate of the earth. Tellus, 21: 611-619
+Sellers, W. (1969).  A climate model based on the energy balance of the earth-atmosphere system. J. Applied, Metereology, 8: 392-400
